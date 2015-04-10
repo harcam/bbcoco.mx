@@ -1,0 +1,3 @@
+harcam_triatlon:
+    resource: "@HarcamTriatlonBundle/Resources/config/routing.yml"
+    prefix:   /
